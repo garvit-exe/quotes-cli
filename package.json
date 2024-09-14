@@ -1,0 +1,19 @@
+{
+  "name": "quotes-cli-garvit-budhiraja",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "quotes-cli": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cli", "quotes", "motivation", "inspiration", "quotes-cli", "garvit budhiraja"],
+  "author": "garvit budhiraja",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^10.2.2",
+    "yargs": "^17.7.2"
+  }
+}
